@@ -1,0 +1,5 @@
+{
+  "name": "EconoDecide: Mankiw Decision Assistant",
+  "description": "基于曼昆《经济学原理》中‘人们如何做出决策’的四大原则，通过理性权衡、机会成本、边际分析和激励响应，辅助用户做出科学决策的 AI 工具。",
+  "requestFramePermissions": []
+}
